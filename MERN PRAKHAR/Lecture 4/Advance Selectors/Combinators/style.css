@@ -1,0 +1,13 @@
+/* descendent */
+
+section div p{
+    color: blue;
+}
+
+article section a{
+    color: hotpink
+}
+
+h1{
+    color: aqua;
+}

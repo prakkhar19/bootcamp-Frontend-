@@ -1,0 +1,23 @@
+a:hover{
+color: brown;
+border: 1px solid black;
+}
+
+button{
+color:black;
+border: 1px solid black;
+font-size: 30px;
+}
+
+button:active{
+color: blueviolet;
+border-radius: 10px;
+}
+
+li:nth-of-type(odd){
+    color: brown;
+}
+
+li:nth-of-type(even){
+    color: blueviolet;
+}
