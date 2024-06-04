@@ -1,0 +1,21 @@
+.absolute{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200px;
+}
+
+/* relative units */
+
+/* percentage */
+
+.relative{
+    border: 1px solid black;
+    width:100;
+}
+
+.relative p{
+    border: 2px dashed red;
+    width: 50%;
+}
+
+/* em */
